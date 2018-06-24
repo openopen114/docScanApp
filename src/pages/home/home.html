@@ -1,0 +1,22 @@
+<ion-header>
+  <ion-navbar>
+    <ion-title>
+      Ionic Blank
+    </ion-title>
+  </ion-navbar>
+</ion-header>
+
+<ion-content padding> 
+	<button ion-button color="primary" (click)="scanByCamera()">scan By Camera</button>
+
+	<button ion-button color="secondary" (click)="scanByCameraWithPromice()">scan By Camera With Promice</button>
+
+	<p>====== imgSrc =======</p>
+	<p>{{imgSrc}}</p>
+	<img [src]="imgSrc" alt="">
+
+	<p>====== img Src List =======</p>
+	<div *ngFor="let item of imgSrcList">
+		<img [src]="item.src" alt=""> 
+	</div> 
+</ion-content>

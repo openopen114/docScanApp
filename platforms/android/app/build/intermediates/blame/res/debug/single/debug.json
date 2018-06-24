@@ -1,0 +1,222 @@
+[
+    {
+        "merged": "/Users/openopen/Documents/ionic/docScannerApp/platforms/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_ic_rotac.png.flat",
+        "source": "/Users/openopen/.gradle/caches/transforms-1/files-1.1/scanlibrary-master-SNAPSHOT.aar/5af18bff6a46874b4cdc81f06e002578/res/drawable-hdpi-v4/ic_rotac.png"
+    },
+    {
+        "merged": "/Users/openopen/Documents/ionic/docScannerApp/platforms/android/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_ic_black_and_white.png.flat",
+        "source": "/Users/openopen/.gradle/caches/transforms-1/files-1.1/scanlibrary-master-SNAPSHOT.aar/5af18bff6a46874b4cdc81f06e002578/res/drawable-mdpi-v4/ic_black_and_white.png"
+    },
+    {
+        "merged": "/Users/openopen/Documents/ionic/docScannerApp/platforms/android/app/build/intermediates/res/merged/debug/drawable-port-xxhdpi_screen.png.flat",
+        "source": "/Users/openopen/Documents/ionic/docScannerApp/platforms/android/app/src/main/res/drawable-port-xxhdpi/screen.png"
+    },
+    {
+        "merged": "/Users/openopen/Documents/ionic/docScannerApp/platforms/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_ic_gray.png.flat",
+        "source": "/Users/openopen/.gradle/caches/transforms-1/files-1.1/scanlibrary-master-SNAPSHOT.aar/5af18bff6a46874b4cdc81f06e002578/res/drawable-xhdpi-v4/ic_gray.png"
+    },
+    {
+        "merged": "/Users/openopen/Documents/ionic/docScannerApp/platforms/android/app/build/intermediates/res/merged/debug/layout_scan_layout.xml.flat",
+        "source": "/Users/openopen/.gradle/caches/transforms-1/files-1.1/scanlibrary-master-SNAPSHOT.aar/5af18bff6a46874b4cdc81f06e002578/res/layout/scan_layout.xml"
+    },
+    {
+        "merged": "/Users/openopen/Documents/ionic/docScannerApp/platforms/android/app/build/intermediates/res/merged/debug/drawable-land-xxhdpi_screen.png.flat",
+        "source": "/Users/openopen/Documents/ionic/docScannerApp/platforms/android/app/src/main/res/drawable-land-xxhdpi/screen.png"
+    },
+    {
+        "merged": "/Users/openopen/Documents/ionic/docScannerApp/platforms/android/app/build/intermediates/res/merged/debug/layout_scan_fragment_layout.xml.flat",
+        "source": "/Users/openopen/.gradle/caches/transforms-1/files-1.1/scanlibrary-master-SNAPSHOT.aar/5af18bff6a46874b4cdc81f06e002578/res/layout/scan_fragment_layout.xml"
+    },
+    {
+        "merged": "/Users/openopen/Documents/ionic/docScannerApp/platforms/android/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_ic_launcher.png.flat",
+        "source": "/Users/openopen/.gradle/caches/transforms-1/files-1.1/scanlibrary-master-SNAPSHOT.aar/5af18bff6a46874b4cdc81f06e002578/res/drawable-mdpi-v4/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/openopen/Documents/ionic/docScannerApp/platforms/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_ic_gray.png.flat",
+        "source": "/Users/openopen/.gradle/caches/transforms-1/files-1.1/scanlibrary-master-SNAPSHOT.aar/5af18bff6a46874b4cdc81f06e002578/res/drawable-hdpi-v4/ic_gray.png"
+    },
+    {
+        "merged": "/Users/openopen/Documents/ionic/docScannerApp/platforms/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_ic_image.png.flat",
+        "source": "/Users/openopen/.gradle/caches/transforms-1/files-1.1/scanlibrary-master-SNAPSHOT.aar/5af18bff6a46874b4cdc81f06e002578/res/drawable-xhdpi-v4/ic_image.png"
+    },
+    {
+        "merged": "/Users/openopen/Documents/ionic/docScannerApp/platforms/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_ic_launcher.png.flat",
+        "source": "/Users/openopen/.gradle/caches/transforms-1/files-1.1/scanlibrary-master-SNAPSHOT.aar/5af18bff6a46874b4cdc81f06e002578/res/drawable-xhdpi-v4/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/openopen/Documents/ionic/docScannerApp/platforms/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_ic_rotc.png.flat",
+        "source": "/Users/openopen/.gradle/caches/transforms-1/files-1.1/scanlibrary-master-SNAPSHOT.aar/5af18bff6a46874b4cdc81f06e002578/res/drawable-xxhdpi-v4/ic_rotc.png"
+    },
+    {
+        "merged": "/Users/openopen/Documents/ionic/docScannerApp/platforms/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_ic_black_and_white.png.flat",
+        "source": "/Users/openopen/.gradle/caches/transforms-1/files-1.1/scanlibrary-master-SNAPSHOT.aar/5af18bff6a46874b4cdc81f06e002578/res/drawable-hdpi-v4/ic_black_and_white.png"
+    },
+    {
+        "merged": "/Users/openopen/Documents/ionic/docScannerApp/platforms/android/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_ic_rotac.png.flat",
+        "source": "/Users/openopen/.gradle/caches/transforms-1/files-1.1/scanlibrary-master-SNAPSHOT.aar/5af18bff6a46874b4cdc81f06e002578/res/drawable-mdpi-v4/ic_rotac.png"
+    },
+    {
+        "merged": "/Users/openopen/Documents/ionic/docScannerApp/platforms/android/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_ic_enhamce_image.png.flat",
+        "source": "/Users/openopen/.gradle/caches/transforms-1/files-1.1/scanlibrary-master-SNAPSHOT.aar/5af18bff6a46874b4cdc81f06e002578/res/drawable-mdpi-v4/ic_enhamce_image.png"
+    },
+    {
+        "merged": "/Users/openopen/Documents/ionic/docScannerApp/platforms/android/app/build/intermediates/res/merged/debug/mipmap-xhdpi_icon.png.flat",
+        "source": "/Users/openopen/Documents/ionic/docScannerApp/platforms/android/app/src/main/res/mipmap-xhdpi/icon.png"
+    },
+    {
+        "merged": "/Users/openopen/Documents/ionic/docScannerApp/platforms/android/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_camera.png.flat",
+        "source": "/Users/openopen/.gradle/caches/transforms-1/files-1.1/scanlibrary-master-SNAPSHOT.aar/5af18bff6a46874b4cdc81f06e002578/res/drawable-mdpi-v4/camera.png"
+    },
+    {
+        "merged": "/Users/openopen/Documents/ionic/docScannerApp/platforms/android/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_icon.png.flat",
+        "source": "/Users/openopen/Documents/ionic/docScannerApp/platforms/android/app/src/main/res/mipmap-xxhdpi/icon.png"
+    },
+    {
+        "merged": "/Users/openopen/Documents/ionic/docScannerApp/platforms/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_ic_black_and_white.png.flat",
+        "source": "/Users/openopen/.gradle/caches/transforms-1/files-1.1/scanlibrary-master-SNAPSHOT.aar/5af18bff6a46874b4cdc81f06e002578/res/drawable-xxhdpi-v4/ic_black_and_white.png"
+    },
+    {
+        "merged": "/Users/openopen/Documents/ionic/docScannerApp/platforms/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_ic_image.png.flat",
+        "source": "/Users/openopen/.gradle/caches/transforms-1/files-1.1/scanlibrary-master-SNAPSHOT.aar/5af18bff6a46874b4cdc81f06e002578/res/drawable-xxhdpi-v4/ic_image.png"
+    },
+    {
+        "merged": "/Users/openopen/Documents/ionic/docScannerApp/platforms/android/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_ic_gray.png.flat",
+        "source": "/Users/openopen/.gradle/caches/transforms-1/files-1.1/scanlibrary-master-SNAPSHOT.aar/5af18bff6a46874b4cdc81f06e002578/res/drawable-mdpi-v4/ic_gray.png"
+    },
+    {
+        "merged": "/Users/openopen/Documents/ionic/docScannerApp/platforms/android/app/build/intermediates/res/merged/debug/drawable-land-hdpi_screen.png.flat",
+        "source": "/Users/openopen/Documents/ionic/docScannerApp/platforms/android/app/src/main/res/drawable-land-hdpi/screen.png"
+    },
+    {
+        "merged": "/Users/openopen/Documents/ionic/docScannerApp/platforms/android/app/build/intermediates/res/merged/debug/drawable-land-mdpi_screen.png.flat",
+        "source": "/Users/openopen/Documents/ionic/docScannerApp/platforms/android/app/src/main/res/drawable-land-mdpi/screen.png"
+    },
+    {
+        "merged": "/Users/openopen/Documents/ionic/docScannerApp/platforms/android/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_ic_image.png.flat",
+        "source": "/Users/openopen/.gradle/caches/transforms-1/files-1.1/scanlibrary-master-SNAPSHOT.aar/5af18bff6a46874b4cdc81f06e002578/res/drawable-mdpi-v4/ic_image.png"
+    },
+    {
+        "merged": "/Users/openopen/Documents/ionic/docScannerApp/platforms/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_ic_rotac.png.flat",
+        "source": "/Users/openopen/.gradle/caches/transforms-1/files-1.1/scanlibrary-master-SNAPSHOT.aar/5af18bff6a46874b4cdc81f06e002578/res/drawable-xhdpi-v4/ic_rotac.png"
+    },
+    {
+        "merged": "/Users/openopen/Documents/ionic/docScannerApp/platforms/android/app/build/intermediates/res/merged/debug/layout_pick_image_fragment.xml.flat",
+        "source": "/Users/openopen/.gradle/caches/transforms-1/files-1.1/scanlibrary-master-SNAPSHOT.aar/5af18bff6a46874b4cdc81f06e002578/res/layout/pick_image_fragment.xml"
+    },
+    {
+        "merged": "/Users/openopen/Documents/ionic/docScannerApp/platforms/android/app/build/intermediates/res/merged/debug/mipmap-hdpi_icon.png.flat",
+        "source": "/Users/openopen/Documents/ionic/docScannerApp/platforms/android/app/src/main/res/mipmap-hdpi/icon.png"
+    },
+    {
+        "merged": "/Users/openopen/Documents/ionic/docScannerApp/platforms/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_ic_launcher.png.flat",
+        "source": "/Users/openopen/.gradle/caches/transforms-1/files-1.1/scanlibrary-master-SNAPSHOT.aar/5af18bff6a46874b4cdc81f06e002578/res/drawable-hdpi-v4/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/openopen/Documents/ionic/docScannerApp/platforms/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_ic_rotc.png.flat",
+        "source": "/Users/openopen/.gradle/caches/transforms-1/files-1.1/scanlibrary-master-SNAPSHOT.aar/5af18bff6a46874b4cdc81f06e002578/res/drawable-xhdpi-v4/ic_rotc.png"
+    },
+    {
+        "merged": "/Users/openopen/Documents/ionic/docScannerApp/platforms/android/app/build/intermediates/res/merged/debug/drawable-port-xxxhdpi_screen.png.flat",
+        "source": "/Users/openopen/Documents/ionic/docScannerApp/platforms/android/app/src/main/res/drawable-port-xxxhdpi/screen.png"
+    },
+    {
+        "merged": "/Users/openopen/Documents/ionic/docScannerApp/platforms/android/app/build/intermediates/res/merged/debug/drawable-port-ldpi_screen.png.flat",
+        "source": "/Users/openopen/Documents/ionic/docScannerApp/platforms/android/app/src/main/res/drawable-port-ldpi/screen.png"
+    },
+    {
+        "merged": "/Users/openopen/Documents/ionic/docScannerApp/platforms/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_ic_rotac.png.flat",
+        "source": "/Users/openopen/.gradle/caches/transforms-1/files-1.1/scanlibrary-master-SNAPSHOT.aar/5af18bff6a46874b4cdc81f06e002578/res/drawable-xxhdpi-v4/ic_rotac.png"
+    },
+    {
+        "merged": "/Users/openopen/Documents/ionic/docScannerApp/platforms/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_ic_gray.png.flat",
+        "source": "/Users/openopen/.gradle/caches/transforms-1/files-1.1/scanlibrary-master-SNAPSHOT.aar/5af18bff6a46874b4cdc81f06e002578/res/drawable-xxhdpi-v4/ic_gray.png"
+    },
+    {
+        "merged": "/Users/openopen/Documents/ionic/docScannerApp/platforms/android/app/build/intermediates/res/merged/debug/drawable-land-ldpi_screen.png.flat",
+        "source": "/Users/openopen/Documents/ionic/docScannerApp/platforms/android/app/src/main/res/drawable-land-ldpi/screen.png"
+    },
+    {
+        "merged": "/Users/openopen/Documents/ionic/docScannerApp/platforms/android/app/build/intermediates/res/merged/debug/mipmap-ldpi_icon.png.flat",
+        "source": "/Users/openopen/Documents/ionic/docScannerApp/platforms/android/app/src/main/res/mipmap-ldpi/icon.png"
+    },
+    {
+        "merged": "/Users/openopen/Documents/ionic/docScannerApp/platforms/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_ic_enhamce_image.png.flat",
+        "source": "/Users/openopen/.gradle/caches/transforms-1/files-1.1/scanlibrary-master-SNAPSHOT.aar/5af18bff6a46874b4cdc81f06e002578/res/drawable-xxhdpi-v4/ic_enhamce_image.png"
+    },
+    {
+        "merged": "/Users/openopen/Documents/ionic/docScannerApp/platforms/android/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_ic_rotc.png.flat",
+        "source": "/Users/openopen/.gradle/caches/transforms-1/files-1.1/scanlibrary-master-SNAPSHOT.aar/5af18bff6a46874b4cdc81f06e002578/res/drawable-mdpi-v4/ic_rotc.png"
+    },
+    {
+        "merged": "/Users/openopen/Documents/ionic/docScannerApp/platforms/android/app/build/intermediates/res/merged/debug/drawable-land-xhdpi_screen.png.flat",
+        "source": "/Users/openopen/Documents/ionic/docScannerApp/platforms/android/app/src/main/res/drawable-land-xhdpi/screen.png"
+    },
+    {
+        "merged": "/Users/openopen/Documents/ionic/docScannerApp/platforms/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_ic_launcher.png.flat",
+        "source": "/Users/openopen/.gradle/caches/transforms-1/files-1.1/scanlibrary-master-SNAPSHOT.aar/5af18bff6a46874b4cdc81f06e002578/res/drawable-xxhdpi-v4/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/openopen/Documents/ionic/docScannerApp/platforms/android/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_gallery.png.flat",
+        "source": "/Users/openopen/.gradle/caches/transforms-1/files-1.1/scanlibrary-master-SNAPSHOT.aar/5af18bff6a46874b4cdc81f06e002578/res/drawable-mdpi-v4/gallery.png"
+    },
+    {
+        "merged": "/Users/openopen/Documents/ionic/docScannerApp/platforms/android/app/build/intermediates/res/merged/debug/mipmap-mdpi_icon.png.flat",
+        "source": "/Users/openopen/Documents/ionic/docScannerApp/platforms/android/app/src/main/res/mipmap-mdpi/icon.png"
+    },
+    {
+        "merged": "/Users/openopen/Documents/ionic/docScannerApp/platforms/android/app/build/intermediates/res/merged/debug/drawable_circle.xml.flat",
+        "source": "/Users/openopen/.gradle/caches/transforms-1/files-1.1/scanlibrary-master-SNAPSHOT.aar/5af18bff6a46874b4cdc81f06e002578/res/drawable/circle.xml"
+    },
+    {
+        "merged": "/Users/openopen/Documents/ionic/docScannerApp/platforms/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_ic_rotc.png.flat",
+        "source": "/Users/openopen/.gradle/caches/transforms-1/files-1.1/scanlibrary-master-SNAPSHOT.aar/5af18bff6a46874b4cdc81f06e002578/res/drawable-hdpi-v4/ic_rotc.png"
+    },
+    {
+        "merged": "/Users/openopen/Documents/ionic/docScannerApp/platforms/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_ic_enhamce_image.png.flat",
+        "source": "/Users/openopen/.gradle/caches/transforms-1/files-1.1/scanlibrary-master-SNAPSHOT.aar/5af18bff6a46874b4cdc81f06e002578/res/drawable-xhdpi-v4/ic_enhamce_image.png"
+    },
+    {
+        "merged": "/Users/openopen/Documents/ionic/docScannerApp/platforms/android/app/build/intermediates/res/merged/debug/drawable-port-xhdpi_screen.png.flat",
+        "source": "/Users/openopen/Documents/ionic/docScannerApp/platforms/android/app/src/main/res/drawable-port-xhdpi/screen.png"
+    },
+    {
+        "merged": "/Users/openopen/Documents/ionic/docScannerApp/platforms/android/app/build/intermediates/res/merged/debug/layout_result_layout.xml.flat",
+        "source": "/Users/openopen/.gradle/caches/transforms-1/files-1.1/scanlibrary-master-SNAPSHOT.aar/5af18bff6a46874b4cdc81f06e002578/res/layout/result_layout.xml"
+    },
+    {
+        "merged": "/Users/openopen/Documents/ionic/docScannerApp/platforms/android/app/build/intermediates/res/merged/debug/drawable-port-mdpi_screen.png.flat",
+        "source": "/Users/openopen/Documents/ionic/docScannerApp/platforms/android/app/src/main/res/drawable-port-mdpi/screen.png"
+    },
+    {
+        "merged": "/Users/openopen/Documents/ionic/docScannerApp/platforms/android/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_icon.png.flat",
+        "source": "/Users/openopen/Documents/ionic/docScannerApp/platforms/android/app/src/main/res/mipmap-xxxhdpi/icon.png"
+    },
+    {
+        "merged": "/Users/openopen/Documents/ionic/docScannerApp/platforms/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_ic_black_and_white.png.flat",
+        "source": "/Users/openopen/.gradle/caches/transforms-1/files-1.1/scanlibrary-master-SNAPSHOT.aar/5af18bff6a46874b4cdc81f06e002578/res/drawable-xhdpi-v4/ic_black_and_white.png"
+    },
+    {
+        "merged": "/Users/openopen/Documents/ionic/docScannerApp/platforms/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_ic_image.png.flat",
+        "source": "/Users/openopen/.gradle/caches/transforms-1/files-1.1/scanlibrary-master-SNAPSHOT.aar/5af18bff6a46874b4cdc81f06e002578/res/drawable-hdpi-v4/ic_image.png"
+    },
+    {
+        "merged": "/Users/openopen/Documents/ionic/docScannerApp/platforms/android/app/build/intermediates/res/merged/debug/drawable-land-xxxhdpi_screen.png.flat",
+        "source": "/Users/openopen/Documents/ionic/docScannerApp/platforms/android/app/src/main/res/drawable-land-xxxhdpi/screen.png"
+    },
+    {
+        "merged": "/Users/openopen/Documents/ionic/docScannerApp/platforms/android/app/build/intermediates/res/merged/debug/xml_provider_paths.xml.flat",
+        "source": "/Users/openopen/.gradle/caches/transforms-1/files-1.1/scanlibrary-master-SNAPSHOT.aar/5af18bff6a46874b4cdc81f06e002578/res/xml/provider_paths.xml"
+    },
+    {
+        "merged": "/Users/openopen/Documents/ionic/docScannerApp/platforms/android/app/build/intermediates/res/merged/debug/drawable-port-hdpi_screen.png.flat",
+        "source": "/Users/openopen/Documents/ionic/docScannerApp/platforms/android/app/src/main/res/drawable-port-hdpi/screen.png"
+    },
+    {
+        "merged": "/Users/openopen/Documents/ionic/docScannerApp/platforms/android/app/build/intermediates/res/merged/debug/xml_config.xml.flat",
+        "source": "/Users/openopen/Documents/ionic/docScannerApp/platforms/android/app/src/main/res/xml/config.xml"
+    },
+    {
+        "merged": "/Users/openopen/Documents/ionic/docScannerApp/platforms/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_ic_enhamce_image.png.flat",
+        "source": "/Users/openopen/.gradle/caches/transforms-1/files-1.1/scanlibrary-master-SNAPSHOT.aar/5af18bff6a46874b4cdc81f06e002578/res/drawable-hdpi-v4/ic_enhamce_image.png"
+    }
+]

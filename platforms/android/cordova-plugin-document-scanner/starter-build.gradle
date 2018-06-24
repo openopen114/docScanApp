@@ -1,0 +1,15 @@
+allprojects {
+	repositories {
+		maven { 
+			url 'https://jitpack.io' 
+		}
+	}
+}
+
+dependencies {
+	implementation 'com.github.NeutrinosPlatform:scanlibrary:master-SNAPSHOT'
+}
+
+configurations.all {
+    resolutionStrategy.cacheChangingModulesFor 0, 'seconds'
+}

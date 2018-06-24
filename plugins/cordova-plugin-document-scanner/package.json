@@ -1,0 +1,66 @@
+{
+  "_from": "cordova-plugin-document-scanner",
+  "_id": "cordova-plugin-document-scanner@1.1.2",
+  "_inBundle": false,
+  "_integrity": "sha512-3DZWWWcFmO8jNIl43zHDWXaF/yEeZ7182J/h5O6RKIg4woh77NtA3oGH/RyLFPNH/XBT99D2wp1TzyfDo48hzw==",
+  "_location": "/cordova-plugin-document-scanner",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "cordova-plugin-document-scanner",
+    "name": "cordova-plugin-document-scanner",
+    "escapedName": "cordova-plugin-document-scanner",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/cordova-plugin-document-scanner/-/cordova-plugin-document-scanner-1.1.2.tgz",
+  "_shasum": "046eae198176ee5977ab5d554f88a067ebcf48d0",
+  "_spec": "cordova-plugin-document-scanner",
+  "_where": "/Users/openopen/Documents/ionic/docScannerApp",
+  "author": {
+    "name": "jatahworx"
+  },
+  "bugs": {
+    "url": "https://github.com/NeutrinosPlatform/cordova-plugin-document-scanner/issues"
+  },
+  "bundleDependencies": false,
+  "cordova": {
+    "id": "cordova-plugin-document-scanner",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "deprecated": false,
+  "description": "cordova plugin for document scanner",
+  "engines": {
+    "cordovaDependencies": {
+      "cordova-android": ">=6.3.0",
+      "cordova-ios": ">=4.5.4"
+    }
+  },
+  "homepage": "https://github.com/NeutrinosPlatform/cordova-plugin-document-scanner#readme",
+  "keywords": [
+    "cordova",
+    "camera",
+    "document",
+    "scan",
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova-ios",
+    "document scanner"
+  ],
+  "license": "ISC",
+  "name": "cordova-plugin-document-scanner",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NeutrinosPlatform/cordova-plugin-document-scanner.git"
+  },
+  "version": "1.1.2"
+}
